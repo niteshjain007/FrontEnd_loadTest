@@ -1,0 +1,191 @@
+timestamp,url,load_ms,status,error
+2025-10-30 17:02:53.738,https://www.example.com,1573,OK,
+2025-10-30 17:02:55.276,https://www.example.com,929,OK,
+2025-10-30 17:03:03.281,https://www.github.com,25670,OK,
+2025-10-30 17:03:07.712,https://www.example.com,1101,OK,
+2025-10-30 17:03:11.137,https://www.example.com,1567,OK,
+2025-10-30 17:03:11.884,https://www.github.com,25852,OK,
+2025-10-30 17:03:12.076,https://www.wikipedia.org,11926,OK,
+2025-10-30 17:03:12.123,https://www.wikipedia.org,12553,OK,
+2025-10-30 17:03:13.347,https://www.github.com,30891,OK,
+2025-10-30 17:03:14.187,https://www.wikipedia.org,19529,OK,
+2025-10-30 17:03:34.732,https://www.example.com,458,OK,
+2025-10-30 17:03:35.195,https://www.github.com,9784,OK,
+2025-10-30 17:03:38.216,https://www.wikipedia.org,4139,OK,
+2025-10-30 17:03:41.901,https://www.wikipedia.org,4179,OK,
+2025-10-30 17:03:43.456,https://www.github.com,8932,OK,
+timestamp,url,load_ms,status,error
+2025-10-30 17:26:43.108,https://www.example.com,1338,OK,
+2025-10-30 17:26:47.205,https://www.wikipedia.org,6678,OK,
+2025-10-30 17:26:52.056,https://www.wikipedia.org,11220,OK,
+2025-10-30 17:27:06.075,https://www.wikipedia.org,7231,OK,
+2025-10-30 17:27:23.536,https://www.example.com,2697,OK,
+2025-10-30 17:27:51.225,https://www.example.com,3566,OK,
+2025-10-30 17:27:52.401,https://www.example.com,4322,OK,
+2025-10-30 17:27:58.324,https://www.example.com,4296,OK,
+2025-10-30 17:28:08.346,https://www.wikipedia.org,16410,OK,
+2025-10-30 17:28:09.869,https://www.wikipedia.org,21064,OK,
+2025-10-30 17:28:11.415,https://www.github.com,47493,OK,
+2025-10-30 17:28:15.316,https://www.github.com,52813,OK,
+2025-10-30 17:28:17.527,https://www.github.com,-1,ERROR,"TimeoutException: Navigation timed out after 60000 ms
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [0d4c657b-fbf8-4cfc-8d03-cc9e6f4f3632, get {url=https://www.github.com}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0.2, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 27708, moz:profile: C:\Users\njain\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 0d4c657b-fbf8-4cfc-8d03-cc9e6f4f3632"
+2025-10-30 17:28:22.098,https://www.github.com,-1,ERROR,"TimeoutException: Navigation timed out after 60000 ms
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [25bcfbba-5750-4347-a34a-493f7a918407, get {url=https://www.github.com}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0.2, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 6408, moz:profile: C:\Users\njain\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 25bcfbba-5750-4347-a34a-493f7a918407"
+2025-10-30 17:28:23.056,https://www.github.com,-1,ERROR,"TimeoutException: Navigation timed out after 60000 ms
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [c961e9e2-b087-488a-b655-e37b522ec595, get {url=https://www.github.com}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0.2, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 2300, moz:profile: C:\Users\njain\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: c961e9e2-b087-488a-b655-e37b522ec595"
+timestamp,url,load_ms,status,error
+2025-10-30 17:34:13.891,https://www.wikipedia.org,3872,OK,
+2025-10-30 17:34:22.130,https://www.example.com,1597,OK,
+2025-10-30 17:34:40.261,https://www.wikipedia.org,5361,OK,
+2025-10-30 17:34:43.329,https://www.example.com,873,OK,
+2025-10-30 17:35:26.039,https://www.example.com,3383,OK,
+2025-10-30 17:35:28.493,https://www.example.com,4134,OK,
+2025-10-30 17:35:40.900,https://www.wikipedia.org,17344,OK,
+2025-10-30 17:35:42.207,https://www.wikipedia.org,19618,OK,
+2025-10-30 17:35:58.218,https://www.example.com,3727,OK,
+2025-10-30 17:36:05.356,https://www.github.com,-1,ERROR,"TimeoutException: Navigation timed out after 60000 ms
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [b6505f22-b0dd-4ee6-80e8-9288157a1499, get {url=https://www.github.com}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0.2, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 24584, moz:profile: C:\Users\njain\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: b6505f22-b0dd-4ee6-80e8-9288157a1499"
+2025-10-30 17:36:07.024,https://www.github.com,-1,ERROR,"TimeoutException: Navigation timed out after 60000 ms
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [f00547a0-6412-4fe9-9f9d-5e383ea4dedb, get {url=https://www.github.com}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0.2, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 29924, moz:profile: C:\Users\njain\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: f00547a0-6412-4fe9-9f9d-5e383ea4dedb"
+2025-10-30 17:36:07.356,https://www.github.com,47366,OK,
+2025-10-30 17:36:07.712,https://www.github.com,28740,OK,
+2025-10-30 17:36:07.824,https://www.github.com,25609,OK,
+2025-10-30 17:36:08.301,https://www.wikipedia.org,21254,OK,
+timestamp,url,load_ms,status,error
+2025-10-30 17:47:50.674,https://www.example.com,613,OK,
+2025-10-30 17:48:12.281,https://www.example.com,2610,OK,
+2025-10-30 17:48:12.455,https://www.wikipedia.org,8718,OK,
+2025-10-30 17:48:14.553,https://www.wikipedia.org,4514,OK,
+2025-10-30 17:48:16.267,https://www.github.com,28901,OK,
+2025-10-30 17:48:18.576,https://www.example.com,855,OK,
+2025-10-30 17:48:20.019,https://www.github.com,14575,OK,
+2025-10-30 17:48:44.456,https://www.example.com,1422,OK,
+2025-10-30 17:48:45.314,https://www.example.com,1780,OK,
+2025-10-30 17:49:01.761,https://www.wikipedia.org,10301,OK,
+2025-10-30 17:49:01.861,https://www.wikipedia.org,11274,OK,
+2025-10-30 17:49:02.272,https://www.github.com,24405,OK,
+2025-10-30 17:49:06.152,https://www.github.com,31022,OK,
+2025-10-30 17:49:06.751,https://www.wikipedia.org,8194,OK,
+2025-10-30 17:49:17.096,https://www.github.com,11945,OK,
+timestamp,url,load_ms,status,error
+2025-10-30 18:13:12.353,https://www.wikipedia.org,1467,OK,
+2025-10-30 18:13:13.773,https://www.example.com,372,OK,
+2025-10-30 18:13:24.118,https://www.example.com,372,OK,
+2025-10-30 18:13:26.612,https://www.github.com,4955,OK,
+2025-10-30 18:13:36.669,https://www.wikipedia.org,1168,OK,
+2025-10-30 18:13:44.108,https://www.github.com,5807,OK,
+2025-10-30 18:13:46.288,https://www.example.com,808,OK,
+2025-10-30 18:13:56.301,https://www.wikipedia.org,1565,OK,
+2025-10-30 18:13:58.784,https://www.github.com,3876,OK,
+2025-10-30 18:14:05.665,https://www.example.com,324,OK,
+2025-10-30 18:14:09.026,https://www.wikipedia.org,1525,OK,
+2025-10-30 18:14:21.701,https://www.github.com,5427,OK,
+2025-10-30 18:14:22.202,https://www.example.com,365,OK,
+2025-10-30 18:14:34.758,https://www.wikipedia.org,1770,OK,
+2025-10-30 18:14:37.652,https://www.github.com,4578,OK,
+2025-10-30 18:14:44.877,https://www.example.com,703,OK,
+2025-10-30 18:14:49.063,https://www.wikipedia.org,1136,OK,
+2025-10-30 18:14:59.173,https://www.github.com,4386,OK,
+2025-10-30 18:14:59.938,https://www.example.com,282,OK,
+2025-10-30 18:15:12.417,https://www.wikipedia.org,1728,OK,
+2025-10-30 18:15:14.443,https://www.github.com,4106,OK,
+2025-10-30 18:15:22.868,https://www.example.com,283,OK,
+2025-10-30 18:15:25.001,https://www.wikipedia.org,1225,OK,
+2025-10-30 18:15:36.509,https://www.example.com,1085,OK,
+2025-10-30 18:15:37.386,https://www.github.com,5371,OK,
+2025-10-30 18:15:48.496,https://www.wikipedia.org,1474,OK,
+2025-10-30 18:15:51.622,https://www.github.com,3752,OK,
+2025-10-30 18:15:58.231,https://www.example.com,374,OK,
+2025-10-30 18:16:03.099,https://www.wikipedia.org,1172,OK,
+2025-10-30 18:16:12.748,https://www.github.com,4138,OK,
+2025-10-30 18:16:13.844,https://www.example.com,289,OK,
+2025-10-30 18:16:25.348,https://www.wikipedia.org,1742,OK,
+2025-10-30 18:16:27.770,https://www.github.com,3893,OK,
+2025-10-30 18:16:35.550,https://www.example.com,334,OK,
+2025-10-30 18:16:39.347,https://www.wikipedia.org,1263,OK,
+2025-10-30 18:16:49.855,https://www.github.com,4292,OK,
+2025-10-30 18:16:50.386,https://www.example.com,310,OK,
+2025-10-30 18:17:03.366,https://www.wikipedia.org,1753,OK,
+2025-10-30 18:17:06.313,https://www.github.com,4404,OK,
+2025-10-30 18:17:13.810,https://www.example.com,304,OK,
+2025-10-30 18:17:18.387,https://www.wikipedia.org,1084,OK,
+2025-10-30 18:17:29.864,https://www.github.com,4646,OK,
+2025-10-30 18:17:30.178,https://www.example.com,348,OK,
+2025-10-30 18:17:43.225,https://www.wikipedia.org,1620,OK,
+2025-10-30 18:17:45.414,https://www.github.com,4062,OK,
+2025-10-30 18:17:53.193,https://www.example.com,268,OK,
+2025-10-30 18:17:56.741,https://www.wikipedia.org,1237,OK,
+2025-10-30 18:18:08.129,https://www.example.com,776,OK,
+2025-10-30 18:18:08.306,https://www.github.com,4452,OK,
+2025-10-30 18:18:21.485,https://www.wikipedia.org,2470,OK,
+2025-10-30 18:18:23.169,https://www.github.com,4304,OK,
+2025-10-30 18:18:31.750,https://www.example.com,407,OK,
+2025-10-30 18:18:34.631,https://www.wikipedia.org,1505,OK,
+2025-10-30 18:18:45.407,https://www.example.com,345,OK,
+2025-10-30 18:18:46.098,https://www.github.com,4780,OK,
+2025-10-30 18:18:59.272,https://www.wikipedia.org,2306,OK,
+2025-10-30 18:19:01.312,https://www.github.com,4699,OK,
+2025-10-30 18:19:09.879,https://www.example.com,696,OK,
+2025-10-30 18:19:12.817,https://www.wikipedia.org,1412,OK,
+2025-10-30 18:19:23.888,https://www.example.com,331,OK,
+2025-10-30 18:19:24.455,https://www.github.com,4855,OK,
+2025-10-30 18:19:35.861,https://www.wikipedia.org,1546,OK,
+2025-10-30 18:19:38.990,https://www.github.com,3732,OK,
+2025-10-30 18:19:46.050,https://www.example.com,298,OK,
+2025-10-30 18:19:50.063,https://www.wikipedia.org,1132,OK,
+2025-10-30 18:19:59.925,https://www.github.com,4141,OK,
+2025-10-30 18:20:00.491,https://www.example.com,255,OK,
+2025-10-30 18:20:13.752,https://www.wikipedia.org,1718,OK,
+2025-10-30 18:20:15.817,https://www.github.com,4517,OK,
+2025-10-30 18:20:23.072,https://www.example.com,315,OK,
+2025-10-30 18:20:27.483,https://www.wikipedia.org,1222,OK,
+2025-10-30 18:20:37.681,https://www.github.com,4205,OK,
+2025-10-30 18:20:38.435,https://www.example.com,344,OK,
+2025-10-30 18:20:52.159,https://www.wikipedia.org,2286,OK,
+2025-10-30 18:20:57.416,https://www.github.com,7133,OK,
+2025-10-30 18:21:04.122,https://www.example.com,548,OK,
+2025-10-30 18:21:11.358,https://www.wikipedia.org,1638,OK,
+2025-10-30 18:21:20.872,https://www.github.com,6483,OK,
+2025-10-30 18:21:25.474,https://www.example.com,386,OK,
+2025-10-30 18:21:31.056,https://www.wikipedia.org,1651,OK,
+2025-10-30 18:21:42.379,https://www.example.com,468,OK,
+2025-10-30 18:21:44.418,https://www.github.com,6892,OK,
+2025-10-30 18:21:53.427,https://www.wikipedia.org,1614,OK,
+2025-10-30 18:21:59.740,https://www.github.com,4964,OK,
+2025-10-30 18:22:03.940,https://www.example.com,434,OK,
+2025-10-30 18:22:11.046,https://www.wikipedia.org,1502,OK,
+2025-10-30 18:22:17.119,https://www.github.com,3747,OK,
+2025-10-30 18:22:21.298,https://www.example.com,315,OK,
+2025-10-30 18:22:28.426,https://www.wikipedia.org,1552,OK,
+2025-10-30 18:22:34.558,https://www.github.com,4002,OK,
+2025-10-30 18:22:38.368,https://www.example.com,312,OK,
+2025-10-30 18:22:46.532,https://www.wikipedia.org,1252,OK,
+2025-10-30 18:22:52.340,https://www.github.com,3850,OK,
+2025-10-30 18:22:57.135,https://www.example.com,330,OK,
+2025-10-30 18:23:03.181,https://www.wikipedia.org,1510,OK,
+2025-10-30 18:23:09.370,https://www.github.com,3936,OK,

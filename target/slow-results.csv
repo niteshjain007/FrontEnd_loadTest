@@ -1,0 +1,13 @@
+timestamp,url,load_ms
+2025-10-30 17:28:09.878,https://www.wikipedia.org,21064
+2025-10-30 17:28:11.418,https://www.github.com,47493
+2025-10-30 17:28:15.323,https://www.github.com,52813
+timestamp,url,load_ms
+2025-10-30 17:35:13.671,https://www.github.com,47366
+2025-10-30 17:35:26.453,https://www.github.com,28740
+2025-10-30 17:35:35.614,https://www.github.com,25609
+2025-10-30 17:35:40.953,https://www.wikipedia.org,21254
+timestamp,url,load_ms
+2025-10-30 17:47:39.391,https://www.github.com,28901
+2025-10-30 17:48:30.883,https://www.github.com,24405
+2025-10-30 17:48:31.509,https://www.github.com,31022
